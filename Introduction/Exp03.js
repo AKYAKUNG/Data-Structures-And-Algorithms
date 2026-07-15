@@ -1,5 +1,5 @@
-studentScore = 75;
-passCriteria = 60;
+let studentScore = 75;
+let passCriteria = 60;
 if (studentScore >= passCriteria) {
     console.log("🎉 ยินดีด้วย! คุณสอบผ่านเกณฑ์");
 }else {

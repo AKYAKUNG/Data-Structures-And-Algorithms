@@ -1,0 +1,7 @@
+let currentTemp = 28;
+let maxSafeTemp = 25;
+if (currentTemp > maxSafeTemp) {
+    console.log("🚨 อันตราย: อุณหภูมิห้อง Server สูงเกินไป!");
+}else {
+    console.log("✅ ปกติ: อุณหภูมิอยู่ในเกณฑ์ปลอดภัย");
+}
